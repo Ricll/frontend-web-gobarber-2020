@@ -29,8 +29,8 @@
 
 Soon
 
-To see the **api**, click here: [GoBarber Rest API](https://github.com/EliasGcf/gobarber-api)</br>
-To see the **mobile client**, click here: [GoBarber Mobile](https://github.com/EliasGcf/gobarber-mobile)
+To see the **api**, click here: [GoBarber Rest API](https://github.com/Ricll/backend-gobarber-2020)</br>
+To see the **mobile client**, click here: [GoBarber Mobile](https://github.com/Ricll/frontend-mobile-gobarber-2020)
 
 ## 🚀 Technologies
 
@@ -56,12 +56,12 @@ Technologies that I used to develop this web client
 
 ### Requirements
 
-- Have this application's [API](https://github.com/EliasGcf/gobarber-api) running
+- Have this application's [API](https://github.com/Ricll/frontend-mobile-gobarber-2020) running
 
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/EliasGcf/gobarber-web.git && cd gobarber-web
+$ git clonehttps://github.com/Ricll/frontend-web-gobarber-2020.git && cd frontend-web-gobarber-2020
 ```
 
 **Follow the steps below**
@@ -84,14 +84,14 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork EliasGcf/gobarber-web
+$ gh repo fork Ricll/frontend-web-gobarber-2020
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd gobarber-web
+$ git clone your-fork-url && cd frontend-web-gobarber-2020
 
 # Create a branch with your feature
 $ git checkout -b my-feature
@@ -111,4 +111,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 by Elias Gabriel 👋 [See my linkedin](https://www.linkedin.com/in/eliasgcf/)
+Made with 💜 by Ricardo L Lima 👋 [See my linkedin]()
