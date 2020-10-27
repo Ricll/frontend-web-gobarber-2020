@@ -39,7 +39,7 @@
 </br>
 
 <p align="center">
-  <img alt="Layout" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588811213/GoBarber/Kapture_2020-05-06_at_21.25.26_tijnl5.gif">
+  <img alt="Layout" src="https://res.cloudinary.com/dpz6e1awu/image/upload/v1603825364/gobarber_web_screen_qprgwl.gif">
 </p>
 
 ## 💇🏻‍♂️ About the project
