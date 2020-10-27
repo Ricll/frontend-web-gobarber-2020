@@ -2,6 +2,7 @@
   <img alt="Logo" src="https://res.cloudinary.com/dpz6e1awu/image/upload/v1603811243/logo_gobarber_ivwgth.svg" width="250px">
 </h1>
 
+<hr></hr>
 <h3 align="center">
   ReactJS Application for GoBarber project
 </h3>
